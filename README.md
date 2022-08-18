@@ -10,4 +10,4 @@ Task 2:
 -Write a command (pipeline) that would split the text file into blocks consisting of 60-75 characters (do not divide words)!
 
 Task 3:
--Use the above commands to write a script, whose input would be a (possibly HTML) text file, and would output the text formatted as in 2.
+-Use the above commands to write a script, whose input would be a (possibly HTML) text file, and would output the text formatted as in task 2.
